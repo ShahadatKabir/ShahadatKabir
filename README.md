@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadatkabir" alt="shahadatkabir" /></a> </p>
 
-- 🔭 I’m currently working on **protfolio**
+- 🔭 I’m currently working on **Laravel Framework**
 
 - 🌱 I’m currently learning **Laravel**
 
