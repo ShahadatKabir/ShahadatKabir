@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadatkabir" alt="shahadatkabir" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel Framework**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **github**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **shahadatkabir68@gmail.com**
 
