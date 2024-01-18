@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Md Shahadat kabir</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
-<img align="left" <a href="https://app.daily.dev/kabir"><img src="https://api.daily.dev/devcards/cd74fbb456f047ebacc0e449b5769437.png?r=k46" width="" height="200" alt="Md Shahadat Kabir's Dev Card"/></a>>
+<a href="https://app.daily.dev/kabir">
+  <img align="left" src="https://api.daily.dev/devcards/cd74fbb456f047ebacc0e449b5769437.png?r=k46" width="" height="200" alt="Md Shahadat Kabir's Dev Card"/>
+</a>
 <img align="right" alt="Coding" width="300" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadatkabir" alt="shahadatkabir" /></a> </p>
