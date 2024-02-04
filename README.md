@@ -1,6 +1,8 @@
 ![logo](https://github.com/ShahadatKabir/ShahadatKabir/blob/main/Banner.jpg)
 <h1 align="center"><img src="helllo.gif" width="100px" alt="hi"> I'm Md Shahadat Kabir<img src="https://github.com/mmiimran/mmiimran/blob/main/Copy%20of%20md%20Imran.gif" width="100px" height="70px" alt="walk"></h1>
-<h3 align="center">Flutter | Python | SQL | Django</h3>
+<h4 align="center">I am enthusiastic and passionate about full-stack web, app development, and data science</h4>
+
+<h4 align="center">Flutter | Python | SQL | Django</h4><hr style="border-width: 1px;">
 <p align="right"> <a href="https://twitter.com/MDShahadatKabi3" target="blank"><img src="https://img.shields.io/twitter/follow/MdShahadatKabir?logo=twitter&style=for-the-badge" alt="MdShahadatKabir" /></a> </p>
 <a href="https://app.daily.dev/kabir"><img align="right" src="https://api.daily.dev/devcards/cd74fbb456f047ebacc0e449b5769437.png?r=etw" width="400" alt="Md Shahadat Kabir's Dev Card"/></a>
 
