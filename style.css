@@ -1,0 +1,8 @@
+.rain{
+background_image: url(rain.gif);
+background_size:cover;
+background_position: center;
+color: transparent;
+background-clip: text;
+-webkit-background-clip:text;
+}
