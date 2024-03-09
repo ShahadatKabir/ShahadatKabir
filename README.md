@@ -1,5 +1,5 @@
 ![logo](https://github.com/ShahadatKabir/ShahadatKabir/blob/main/Banner.jpg)
-<h1 align="center" class="rain"><img src="helllo.gif" width="100px" alt="hi"> I'm Md Shahadat Kabir<img src="https://github.com/mmiimran/mmiimran/blob/main/Copy%20of%20md%20Imran.gif" width="100px" height="70px" alt="walk"></h1>
+<h1 align="center"><img src="helllo.gif" width="100px" alt="hi"> I'm Md Shahadat Kabir<img src="https://github.com/mmiimran/mmiimran/blob/main/Copy%20of%20md%20Imran.gif" width="100px" height="70px" alt="walk"></h1>
 <h4 align="center">I am enthusiastic and passionate about full-stack web, app development, and data science</h4>
 
 <h4 align="center">Flutter | Python | SQL | Django</h4><hr style="border-width: 1px;">
