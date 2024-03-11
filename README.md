@@ -5,7 +5,8 @@
 
 #### <i> <h4 align="center">Flutter | Python | SQL | Django</h4><hr style="border-width: 1px;"></i>
 <p align="right"> <a href="https://twitter.com/MDShahadatKabi3" target="blank"><img src="https://img.shields.io/twitter/follow/MdShahadatKabir?logo=twitter&style=for-the-badge" alt="MdShahadatKabir" /></a> </p>
-<a href="https://app.daily.dev/kabir"><img align="right" src="https://api.daily.dev/devcards/cd74fbb456f047ebacc0e449b5769437.png?r=etw" width="400" alt="Md Shahadat Kabir's Dev Card"/></a>
+
+<a href="https://app.daily.dev/kabir"><img align="right"  src="https://api.daily.dev/devcards/v2/KiphvBTZ3gg5vAJjWHWci.png?r=lv7" width="400" alt="Md Shahadat Kabir's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="shahadatkabir" /> </p>
 
