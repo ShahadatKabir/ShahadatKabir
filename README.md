@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadatkabir&label=Profile%20views&color=0e75b6&style=flat" alt="shahadatkabir" /> </p>
 
-- 🔭 I’m currently working on **Machine learing**
+- 🔭 I’m currently working on **Data Analyst**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Data Science (ML,DL)**
 
 - 💬 Ask me about **Sql**
 
